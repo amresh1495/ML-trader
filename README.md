@@ -1,6 +1,6 @@
 # ML Trader
 
-A machine learning based platform for picking up the best technical indicators based on historical data which might help in maximising the profits in trades.
+A machine learning based platform for picking up the best technical indicators based on backtesting the historical data which might help in maximising the profits in trades.
 
 ### To-Do
   - Implement the mostly used technical indicators in Python
