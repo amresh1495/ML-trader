@@ -1,7 +1,5 @@
 # ML Trader
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 A machine learning based platform for picking up the best technical indicators based on historical data which might help in maximising the profits in trades.
 
 ### To-Do
