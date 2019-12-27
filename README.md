@@ -1,4 +1,4 @@
-# ML Trader
+## ML Trader
 
 A machine learning based platform for picking up the best technical indicators based on backtesting the historical data which might help in maximising the profits in trades.
 
